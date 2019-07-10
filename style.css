@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    background: #cccccc;
+    width: 550px;
+    height: 175px;
+    margin: 100px auto;
+    position: relative;
+    padding: 30px;
+}
+
+.timer {
+    font-size: 80px;
+    position: relative;
+    margin-left: 80px;
+}
+
+#start {
+    font-size: 25px;
+    font-family: sans-serif;
+    width: 10px auto;
+    padding: 10px;
+    margin-left: 150px;
+}
+
+#stop {
+    font-size: 25px;
+    font-family: sans-serif;
+    width: 10px auto;
+    padding: 10px;
+   
+}
