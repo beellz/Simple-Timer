@@ -13,24 +13,39 @@
     padding: 30px;
 }
 
-.timer {
+.time {
     font-size: 80px;
     position: relative;
-    margin-left: 80px;
+    text-align: center;
+    
 }
 
-#start {
+.btn{
+   text-align: center;
+ }
+
+ #start {
     font-size: 25px;
     font-family: sans-serif;
     width: 10px auto;
     padding: 10px;
-    margin-left: 150px;
+ 
 }
 
+ 
 #stop {
     font-size: 25px;
     font-family: sans-serif;
     width: 10px auto;
     padding: 10px;
    
+} 
+
+#clear {
+    font-size: 25px;
+    font-family: sans-serif;
+    width: 10px auto;
+    padding: 10px;
+   
+
 }
